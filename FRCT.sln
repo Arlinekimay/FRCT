@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FRCT", "FRCT\FRCT.csproj", "{12A8778E-E0E7-4165-8B76-C12476961975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FRCT.BO", "FRCT.BO\FRCT.BO.csproj", "{6834EE06-D1E1-4271-AF90-4BE79372C417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12A8778E-E0E7-4165-8B76-C12476961975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A8778E-E0E7-4165-8B76-C12476961975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A8778E-E0E7-4165-8B76-C12476961975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A8778E-E0E7-4165-8B76-C12476961975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6834EE06-D1E1-4271-AF90-4BE79372C417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6834EE06-D1E1-4271-AF90-4BE79372C417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6834EE06-D1E1-4271-AF90-4BE79372C417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6834EE06-D1E1-4271-AF90-4BE79372C417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A3EA663-08C8-44E1-9513-D5A4EBE853AB}
+	EndGlobalSection
+EndGlobal
